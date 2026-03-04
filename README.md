@@ -3,3 +3,5 @@
 This repository contains scripts used to generate and analyze chromosome-specific telomere length estimates using the software Telogator2 on the All of Us research workbench (Controlled Tier access required).
 
 Telogator2.ipynb (Python Jupyter Notebook)
+
+DOI: 10.5281/zenodo.18868086
